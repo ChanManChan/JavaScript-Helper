@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Nanda Gopal",
+    "company":"AAI",
+    "phone":"9444527047"
+  },
+  {
+    "id":2,
+    "name":"Nandu Boah",
+    "company":"RockStar Games",
+    "phone":"9789864388"
+  },
+  {
+    "id":3,
+    "name":"Good Boah",
+    "company":"Alienware Tech.",
+    "phone":"7708492226"
+  }
+]
